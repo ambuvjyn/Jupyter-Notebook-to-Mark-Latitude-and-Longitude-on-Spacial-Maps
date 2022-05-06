@@ -14,4 +14,4 @@ Plot size used 15x15
 
 Two seperate data are used, which are seperated using IDs 1 and 2. 1 is blue and 2 is Red. This is to show that you can represent any number of data in the same map.
 
-Data file : Randomly curated by @ambuvjyn
+Data file : Randomly curated by [Ambu Vijayan](https://github.com/ambuvjyn)
