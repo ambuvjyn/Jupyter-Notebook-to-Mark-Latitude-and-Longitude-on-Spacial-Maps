@@ -15,3 +15,11 @@ Plot size used 15x15
 Two seperate data are used, which are seperated using IDs 1 and 2. 1 is blue and 2 is Red. This is to show that you can represent any number of data in the same map.
 
 Data file : Randomly curated by [Ambu Vijayan](https://github.com/ambuvjyn)
+
+## Commands to install required python packages for this Jupyter Notebook
+
+- `sudo apt install python3-pip to install pip3 and Python 3`
+- `sudo apt-get install python3-matplotlib`
+- `sudo apt-get install -y python-descartes`
+- `sudo apt install python-geopandas` or `sudo pip3 install geopandas`
+- `sudo apt install python-shapely`
